@@ -1,0 +1,6 @@
+c:\users\ajmoo93\documents\visual studio 2015\Projects\newGameofLife\newGameofLife\bin\Debug\newGameofLife.exe.config
+c:\users\ajmoo93\documents\visual studio 2015\Projects\newGameofLife\newGameofLife\bin\Debug\newGameofLife.exe
+c:\users\ajmoo93\documents\visual studio 2015\Projects\newGameofLife\newGameofLife\bin\Debug\newGameofLife.pdb
+c:\users\ajmoo93\documents\visual studio 2015\Projects\newGameofLife\newGameofLife\obj\Debug\newGameofLife.csprojResolveAssemblyReference.cache
+c:\users\ajmoo93\documents\visual studio 2015\Projects\newGameofLife\newGameofLife\obj\Debug\newGameofLife.exe
+c:\users\ajmoo93\documents\visual studio 2015\Projects\newGameofLife\newGameofLife\obj\Debug\newGameofLife.pdb
