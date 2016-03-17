@@ -1,0 +1,6 @@
+c:\users\ajmoo93\documents\visual studio 2015\Projects\Exercise23\Exercise23\bin\Debug\Exercise23.exe.config
+c:\users\ajmoo93\documents\visual studio 2015\Projects\Exercise23\Exercise23\bin\Debug\Exercise23.exe
+c:\users\ajmoo93\documents\visual studio 2015\Projects\Exercise23\Exercise23\bin\Debug\Exercise23.pdb
+c:\users\ajmoo93\documents\visual studio 2015\Projects\Exercise23\Exercise23\obj\Debug\Exercise23.csprojResolveAssemblyReference.cache
+c:\users\ajmoo93\documents\visual studio 2015\Projects\Exercise23\Exercise23\obj\Debug\Exercise23.exe
+c:\users\ajmoo93\documents\visual studio 2015\Projects\Exercise23\Exercise23\obj\Debug\Exercise23.pdb
