@@ -1,0 +1,18 @@
+c:\users\supersonic\documents\visual studio 2015\Projects\BlackJack6\bin\Debug\BlackJack6.exe.config
+c:\users\supersonic\documents\visual studio 2015\Projects\BlackJack6\bin\Debug\BlackJack6.exe
+c:\users\supersonic\documents\visual studio 2015\Projects\BlackJack6\bin\Debug\BlackJack6.pdb
+c:\users\supersonic\documents\visual studio 2015\Projects\BlackJack6\obj\Debug\BlackJack6.csprojResolveAssemblyReference.cache
+c:\users\supersonic\documents\visual studio 2015\Projects\BlackJack6\obj\Debug\BlackJack6.exe
+c:\users\supersonic\documents\visual studio 2015\Projects\BlackJack6\obj\Debug\BlackJack6.pdb
+c:\Projects\BlackJack6\bin\Debug\BlackJack6.exe.config
+c:\Projects\BlackJack6\obj\Debug\BlackJack6.exe
+c:\Projects\BlackJack6\obj\Debug\BlackJack6.pdb
+c:\Projects\BlackJack6\bin\Debug\BlackJack6.exe
+c:\Projects\BlackJack6\bin\Debug\BlackJack6.pdb
+c:\Projects\BlackJack6\obj\Debug\BlackJack6.csprojResolveAssemblyReference.cache
+C:\Users\Ajmoo93\Desktop\BJM\bin\Debug\BlackJack6.exe.config
+C:\Users\Ajmoo93\Desktop\BJM\obj\Debug\BlackJack6.exe
+C:\Users\Ajmoo93\Desktop\BJM\obj\Debug\BlackJack6.pdb
+C:\Users\Ajmoo93\Desktop\BJM\bin\Debug\BlackJack6.exe
+C:\Users\Ajmoo93\Desktop\BJM\bin\Debug\BlackJack6.pdb
+C:\Users\Ajmoo93\Desktop\BJM\obj\Debug\BlackJack6.csprojResolveAssemblyReference.cache
